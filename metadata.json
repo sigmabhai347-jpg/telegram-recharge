@@ -1,0 +1,5 @@
+{
+  "name": "Telegram Loot Task",
+  "description": "An application to complete a task by joining Telegram channels and submitting details to receive a reward.",
+  "requestFramePermissions": []
+}
